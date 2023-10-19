@@ -20,8 +20,8 @@
 - <strong>Simple and straightforward:</strong> Navigating the Zen admin dashboard is a breeze, eliminating the need for any cumbersome troubleshooting to accomplish tasks.
 
 <p float="left">
-  <img src="/images/prv1.png" width="40%" />
-  <img src="/images/prv2.png" width="40%" />
+  <img src="/images/prv1.png" width="30%" />
+  <img src="/images/prv2.png" width="60%" />
 </p>
 
 ### Powerful file manager
