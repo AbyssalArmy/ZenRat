@@ -21,7 +21,7 @@
 
 <p float="left">
   <img src="/images/prv1.png" width="30%" />
-  <img src="/images/prv2.png" width="60%" />
+  <img src="/images/prv2.png" width="58%" />
 </p>
 
 ### Powerful file manager
