@@ -6,7 +6,7 @@
 </div>
 
 ## About Zen
-#### The ultimate Android device control tool, empowering you with seamless, secure, and limitless control over your device  
+#### The ultimate Android device control tool, empowering you with seamless, secure, and limitless control over target device  
 #### Zen is powered by the latest and greatest technologies, ensuring a top-tier experience    
 #### Zen comprises three primary components:
 - <strong>Server side:</strong> Powered by Node.js, Express.js and Socket.IO
