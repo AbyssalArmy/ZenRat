@@ -34,7 +34,7 @@
   <img src="/images/prv4.png" width="40%" />
 </p>
 
-### Camera and microphone
+### Live camera and microphone
 - <strong>Live camera capturing:</strong> Initiate the target device's camera recording and access live footage directly from the Zen dashboard.
 - <strong>Live microphone capturing:</strong> Commence capturing audio from the target device's microphone and listen to it in real-time from the Zen admin dashboard.
 - <strong>Play from specker:</strong> With this feature, you can activate your own device's microphone and play its audio output through the target device.
