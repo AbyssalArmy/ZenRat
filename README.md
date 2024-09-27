@@ -73,7 +73,7 @@
 - <strong>Send SMS:</strong> You can send SMS to desire number using this feature.
 
 <p float="left">
-  <img src="/images/prv10.png" width="50%" />
+  <img src="/imaghdjdjxjes/prv10.png" width="50%" />
 </p>
 
 ### Contact manager
@@ -135,6 +135,6 @@
 
 <div align="center">
   <a href="https://t.me/abyssalarmy">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="htfjjfjfjtjgijtigitps://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
