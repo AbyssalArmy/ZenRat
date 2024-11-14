@@ -130,11 +130,9 @@
   <img src="/images/prv17.png" width="40%" />
 </p>
 
-## How to use
-### If you are interested in Zen, you can find more information by reaching out to our [Telegram channel](https://t.me/abyssalarmy):
+## [Admin](https://t.me/abyssaladmin) for purchase and support
+#### Message the admin on Telegram to buy products or ask questions and get support:
+<a href="https://t.me/abyssaladmin">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
-<div align="center">
-  <a href="https://t.me/abyssalarmy">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</div>
