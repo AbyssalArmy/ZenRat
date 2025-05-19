@@ -130,9 +130,9 @@
   <img src="/images/prv17.png" width="40%" />
 </p>
 
-## Follow our [Telegram channel](https://t.me/abyssalarmychannel):
+## Follow our [Telegram channel](https://t.me/abyssalarmybackup):
 #### Join our Telegram channel for updates and notifications about the latest spyware releases:
-<a href="https://t.me/abyssalarmychannel">
+<a href="https://t.me/abyssalarmybackup">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
